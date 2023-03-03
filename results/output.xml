@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.0.2 (Python 3.10.10 on win32)" generated="20230217 02:15:57.777" rpa="false" schemaversion="3">
+<suite id="s1" name="Automate" source="C:\Users\Admin\Documents\Automate">
+<suite id="s1-s1" name="Workshop" source="C:\Users\Admin\Documents\Automate\workshop.robot">
+<test id="s1-s1-t1" name="TC-001" line="10">
+<kw name="Log To Console" library="BuiltIn">
+<arg>test</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" starttime="20230217 02:15:58.272" endtime="20230217 02:15:58.275"/>
+</kw>
+<status status="PASS" starttime="20230217 02:15:58.264" endtime="20230217 02:15:58.275"/>
+</test>
+<status status="PASS" starttime="20230217 02:15:57.835" endtime="20230217 02:15:58.291"/>
+</suite>
+<status status="PASS" starttime="20230217 02:15:57.784" endtime="20230217 02:15:58.308"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Automate">Automate</stat>
+<stat pass="1" fail="0" skip="0" id="s1-s1" name="Workshop">Automate.Workshop</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
